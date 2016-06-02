@@ -1,2 +1,4 @@
 # HellO_WorlD
-New repository to try out GitHub.
+
+Yep, i'm another new to GitHub
+and made this repository to try it out. Cheers.
